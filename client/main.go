@@ -33,7 +33,7 @@ func main() {
 
 	auth := Authentication{
 		Login:    "rfunix",
-		Password: "xpto123",
+		Password: "xpto1234",
 	}
 
 	conn, err = grpc.Dial(
