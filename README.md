@@ -1,7 +1,7 @@
 # go-grpc-example
 Ping gRPC server/client in GO with TLS encryption, proxy api and auth.
 
-## How generate certs
+## How to generate certs
 
 ```
 openssl genrsa -out cert/server.key 2048
